@@ -1,0 +1,17 @@
+{
+  "CARDS": {
+    "1": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "2": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "3": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "4": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "5": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "6": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "7": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "8": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "9": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "10n": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "Jack": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "King": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "Queen": [ "Spades", "Diamonds", "Clubs", "Hearts" ],
+    "ACE": [ "Spades", "Diamonds", "Clubs", "Hearts" ]
+}
